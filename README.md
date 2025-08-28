@@ -21,7 +21,9 @@
 **Tools & Platforms:** Git, Firebase, Vercel, Cursor, Android Studio, Xcode, IntelliJ, JUnit  
 
 <p align="center">
+
   <img src="https://skillicons.dev/icons?i=dart,swift,flutter,mongodb,mysql,firebase,git,vercel,androidstudio,figma" />
+
 </p>
 
 ---
