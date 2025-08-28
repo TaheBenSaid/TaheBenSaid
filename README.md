@@ -21,7 +21,9 @@
 **Tools & Platforms:** Git, Firebase, Vercel, Cursor, Android Studio, Xcode, IntelliJ, JUnit  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,swift,flutter,SwiftUI,mongodb,mysql,firebase,git,vercel,androidstudio,Xcode,figma" />
+
+  <img src="https://skillicons.dev/icons?i=dart,swift,flutter,mongodb,mysql,firebase,git,vercel,androidstudio,figma" />
+
 </p>
 
 ---
@@ -107,4 +109,3 @@
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TaheBenSaid&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TaheBenSaid&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
