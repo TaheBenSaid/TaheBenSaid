@@ -9,7 +9,7 @@
 
 ## 🌟 About Me  
 
-“As a mobile developer with 4 years of experience, I specialize in Flutter, Swift and Dart, building apps for both Android and iOS. I’ve developed platforms in education, food delivery, fintech, e-commerce, social networking, and video security, some of which have reached tens of thousands of users. With a strong foundation in clean architecture and modern mobile frameworks, I focus on creating smooth, engaging, and user-friendly applications that scale.”
+“As a mobile developer with 4+ years of experience, I specialize in Flutter, Swift and Dart, building apps for both Android and iOS. I’ve developed platforms in education, food delivery, fintech, e-commerce, social networking, and video security, some of which have reached tens of thousands of users. With a strong foundation in clean architecture and modern mobile frameworks, I focus on creating smooth, engaging, and user-friendly applications that scale.”
 
 ---
 
