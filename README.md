@@ -137,8 +137,11 @@ English (C1) • French (C1) • Arabic (Native) • German (B1)
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaheBenSaid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaheBenSaid&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaheBenSaid&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TaheBenSaid&theme=tokyonight&utcOffset=1" alt="Productive time" />
 </p>
 
 ---
