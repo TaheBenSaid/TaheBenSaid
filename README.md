@@ -19,9 +19,9 @@
 
 ## 🛠️ Skills & Technologies
 
-**Languages:** Dart, Kotlin, Swift
-**Frameworks & SDKs:** Flutter, SwiftUI, Android SDK, iOS SDK
-**Databases:** MongoDB, SQL, MySQL
+**Languages:** Dart, Kotlin, Swift<br/>
+**Frameworks & SDKs:** Flutter, SwiftUI, Android SDK, iOS SDK<br/>
+**Databases:** MongoDB, SQL, MySQL<br/>
 **Tools & Platforms:** Git, Firebase, Android Studio, Xcode, App Store Connect, Google Play Console, TestFlight, Vercel, Figma
 
 <p align="center">
