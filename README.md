@@ -40,7 +40,7 @@ Give me the problem and I'll hand you the product: the scope, the architecture, 
 
 - **Chaatr**, founding engineer. Took it from an idea to three live apps for students, parents and teachers, with an AI companion and real payments.
 - **The Proper Human Diet**, lead Flutter developer. One codebase for iOS, Android and the web.
-- **Freelance product engineering.** Built YallaGo's whole stack alone: three apps and a web portal.
+- **Freelance product engineering.** Built YallaGo's customer, courier and restaurant apps plus the web portal, solo, on the client's backend.
 
 ### Free tools
 
