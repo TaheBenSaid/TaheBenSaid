@@ -13,7 +13,7 @@
   <a href="mailto:tahe.bensaid.pro@gmail.com">tahe.bensaid.pro@gmail.com</a>
 </p>
 
-Give me the problem and I'll hand you the product: the scope, the architecture, the apps, the payments and the release. Five years of Flutter, Swift and Kotlin, twelve products live in the stores.
+Give me the problem and I'll hand you the product: the scope, the architecture, the apps, the payments and the release. Five years of Flutter, Swift and Kotlin, sixteen apps live in the stores.
 
 ### Shipped
 

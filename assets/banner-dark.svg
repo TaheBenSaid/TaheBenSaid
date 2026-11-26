@@ -17,7 +17,7 @@
     <text x="62" y="176" fill="#efece6" font-size="68" font-weight="800" letter-spacing="-2">I turn ideas into apps</text>
     <text x="62" y="252" fill="#5fc3e4" font-size="68" font-weight="800" letter-spacing="-2">people pay for.</text>
     <path d="M66 270 C 170 258, 280 280, 390 264 S 520 258, 560 266" fill="none" stroke="#5fc3e4" stroke-width="4" stroke-linecap="round"/>
-    <text x="64" y="318" fill="#8f8a82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">12 apps live  ·  100k+ downloads  ·  Flutter, Swift, Kotlin  ·  Sousse, Tunisia</text>
+    <text x="64" y="318" fill="#8f8a82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">16 apps live  ·  100k+ downloads  ·  Flutter, Swift, Kotlin  ·  Sousse, Tunisia</text>
   </g>
   <g transform="translate(1010 40)">
     <rect width="150" height="300" rx="30" fill="#efece6" opacity="0.92"/>
